@@ -75,5 +75,5 @@ async def set_status(ctx, *, new_status: str):
         await ctx.send("You do not have permission to change the bot's status.")
 
 
-client.run("MTE1NzAxODUxMjE5NjM3ODY5NQ.GyvkaM.CNcqUewYXsDLnpXoWLBMHFaXpzNSZYLgSl7O_g")
+client.run("Your token")
 
